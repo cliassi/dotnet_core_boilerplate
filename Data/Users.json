@@ -1,0 +1,406 @@
+﻿[
+  {
+    "Name": "Group_1",
+    "Role": "Group"
+  },
+  {
+    "Name": "SubGroup_11",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_111",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1111",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_112",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1121",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_113",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1131",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "SubGroup_12",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_121",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1211",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_122",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1221",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_123",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1231",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "SubGroup_13",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_131",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1311",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_132",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1321",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_133",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1331",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "SubGroup_14",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_141",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1411",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_142",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1421",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_1422",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_143",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_1431",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Group_2",
+    "Role": "Group"
+  },
+  {
+    "Name": "SubGroup_21",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_211",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2111",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_212",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2121",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_213",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2131",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "SubGroup_22",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_221",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2211",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_2212",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_222",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2221",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_223",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2231",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_2232",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "SubGroup_23",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_231",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2311",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_2312",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_232",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2321",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_2322",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_233",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_2331",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_2332",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Group_3",
+    "Role": "Group"
+  },
+  {
+    "Name": "SubGroup_31",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_311",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_3111",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_3112",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_312",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_3121",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_3122",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_313",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_3131",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_3132",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "SubGroup_32",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_321",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_3211",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_3212",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency322",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_3221",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_3222",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Group_4",
+    "Role": "Group"
+  },
+  {
+    "Name": "SubGroup_41",
+    "Role": "Sub-Group"
+  },
+  {
+    "Name": "Agency_411",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_4111",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_4112",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_4113",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_4114",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_412",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_4121",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_4122",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_4123",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Group_5",
+    "Role": "Group"
+  },
+  {
+    "Name": "Agency_51",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_511",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_512",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_513",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_514",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_52",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_521",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_522",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_523",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_53",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_531",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Consultant_532",
+    "Role": "Consultant"
+  },
+  {
+    "Name": "Agency_54",
+    "Role": "Agency"
+  },
+  {
+    "Name": "Consultant_541",
+    "Role": "Consultant"
+  }
+]
